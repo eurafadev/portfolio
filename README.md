@@ -11,7 +11,24 @@
 
 - 📫 Você pode me contatar pelo **eurafadev@gmail.com**
 
-- ⚡ Curiosidades **nunca recuso uma pizza 🍕**
+- ⚡ Fun Fact **nunca recuso uma pizza 🍕**
+
+<figure>
+<img src="./tela1.png">
+<figcaption>Tela de início</figcaption>
+</figure><br><br>
+<figure>
+<img src="./tela2.png">
+<figcaption>Tela de Curiosidades</figcaption>
+</figure><br><br>
+<figure>
+<img src="./tela3.png">
+<figcaption>Carrossel</figcaption>
+</figure><br><br>
+<figure>
+<img src="./video-profile.gif">
+<figcaption>Demo</figcaption>
+</figure><br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
